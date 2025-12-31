@@ -440,11 +440,6 @@ const data = [
                 "Name": "DEVULAPALLY POOJITHA REDDY"
                },
                {
-                "Id": "23911A3584",
-                "Section": "AI-B",
-                "Name": "DHEERAVATH ARAVIND NAIK"
-               },
-               {
                 "Id": "23911A3585",
                 "Section": "AI-B",
                 "Name": "ETTADI SNEHALATHA"
